@@ -18,6 +18,7 @@ We've copied the questions from the lab here. Answer them below!
 **a. What color stripes are on a 100 Ohm resistor?**
  
 **b. What do you have to do to light your LED?**
+     Have to run the arduino compiler after connecting your board. Once compiled and uploaded, pressing the switch should light the LED
 
 
 ## Part C. Blink a LED using Arduino
