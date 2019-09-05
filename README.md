@@ -50,7 +50,7 @@ We've copied the questions from the lab here. Answer them below!
 ## Part D. Manually fade an LED
 
 **a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?**
-
+     Yes, the LED is a variable birghtness range depending on the position of the potentiameter
 
 ## Part E. Fade an LED using Arduino
 
