@@ -26,13 +26,14 @@ We've copied the questions from the lab here. Answer them below!
 ### 1. Blink the on-board LED
 
 **a. What line(s) of code do you need to change to make the LED blink (like, at all)?**
+     Did not have to change any code at all from the given example
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
-
+     Have to change the delay rates
 **c. What circuit element would you want to add to protect the board and external LED?**
- 
+     Would add a diode to prevent any unwanted surges
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
-
+     10 milliseconds. Can output serial prints that say when it is on/off
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
 
