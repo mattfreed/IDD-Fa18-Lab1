@@ -55,8 +55,10 @@ We've copied the questions from the lab here. Answer them below!
 ## Part E. Fade an LED using Arduino
 
 **a. What do you have to modify to make the code control the circuit you've built on your breadboard?**
+     Change the pin output to 11
 
 **b. What is analogWrite()? How is that different than digitalWrite()?**
+     analogWrite?() takes a value between 0 and 255, which allows you to vary the "voltage" output. digitalwrite() can only output HIGH or LOW, with no variation inbetween
 
 
 ## Part F. FRANKENLIGHT!!!
