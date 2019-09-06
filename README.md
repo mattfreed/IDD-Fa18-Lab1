@@ -75,7 +75,7 @@ We've copied the questions from the lab here. Answer them below!
 The device is powered by a a 120v wall socket adaptor. There is a 5v relay in the device that regulates the 120v from flowing to the next device. The device takes in the 120v and sens 5v to the computer chip, as it works on 5v logic.
 
 **d. Is information stored in your device? Where? How?**
- 
+     Information is stored on this device on a memory chip. It has to know which devices it can connect to, therefore storing information is required.
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 **Describe what you did here.**
