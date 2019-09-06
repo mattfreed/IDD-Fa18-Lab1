@@ -66,13 +66,16 @@ We've copied the questions from the lab here. Answer them below!
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
-
+   Yes, it is on the pcb board. Inside the computer it is analyzing the wifi signal received and determines what to do.
+   
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
-
+  Wifi receiver, wifi transmitter, button for wifi connectivity. The wifi receiver receives a wifi signal and sends it to the computer chip, which determines what to do. The wifi transmitter then sends back information as to whether it was successful or or not. The button is used for the initial wifi connectivity of the device
+  
 **c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?**
+The device is powered by a a 120v wall socket adaptor. There is a 5v relay in the device that regulates the 120v from flowing to the next device. The device takes in the 120v and sens 5v to the computer chip, as it works on 5v logic.
 
 **d. Is information stored in your device? Where? How?**
-
+ 
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 **Describe what you did here.**
