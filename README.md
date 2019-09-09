@@ -60,13 +60,14 @@ We've copied the questions from the lab here. Answer them below!
 
 **a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?**
     
-    Yes, the LED is a variable birghtness range depending on the position of the potentiameter
+    Yes, the LED varries its birghtness depending on the position of the potentiameter (due to the change in resistance)
 
 ## Part E. Fade an LED using Arduino
 
 **a. What do you have to modify to make the code control the circuit you've built on your breadboard?**
     
     Change the pin output to 11
+    `pinMode(11, OUTPUT);`
 
 **b. What is analogWrite()? How is that different than digitalWrite()?**
     
@@ -87,7 +88,7 @@ We've copied the questions from the lab here. Answer them below!
   
 **c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?**
 
-     The device is powered by a a 120v wall socket adaptor. There is a 5v relay in the device that regulates the 120v from flowing to the next device. The device takes in the 120v and sens 5v to the computer chip, as it works on 5v logic.
+     The device is powered by a a 120v wall socket adaptor. There is a 5v relay in the device that regulates the 120v from flowing to the next device. The device takes in the 120v and sends 5v to the computer chip, as it works on 5v logic.
 
 **d. Is information stored in your device? Where? How?**
     
