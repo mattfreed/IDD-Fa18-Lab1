@@ -47,13 +47,13 @@ We've copied the questions from the lab here. Answer them below!
      
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
     
-    [Code](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Lab1-blink-onboard.ino)
+   [Code](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Lab1-blink-onboard.ino)
 
 ### 2. Blink your LED
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-     [link to video here](https://youtu.be/LJWWnNuRVoE)
+   [link to video here](https://youtu.be/LJWWnNuRVoE)
 
 
 ## Part D. Manually fade an LED
