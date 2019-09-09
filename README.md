@@ -16,6 +16,7 @@ We've copied the questions from the lab here. Answer them below!
 ## Part B. Manually Blink a LED
 
 **a. What color stripes are on a 100 Ohm resistor?**
+
      Brown, Black, Brown, Gold
      
 **b. What do you have to do to light your LED?**
@@ -40,13 +41,14 @@ We've copied the questions from the lab here. Answer them below!
      10 milliseconds. Can output serial prints that say when it is on/off
      
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
-     [Code](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Lab1-blink-onboard.ino)
+    
+    [Code](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Lab1-blink-onboard.ino)
 
 ### 2. Blink your LED
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[link to your video here; feel free to upload to youtube and just paste in a link here]
+[link to video here](https://youtu.be/LJWWnNuRVoE)
 
 
 ## Part D. Manually fade an LED
