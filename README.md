@@ -60,7 +60,7 @@ We've copied the questions from the lab here. Answer them below!
 
 **a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?**
     
-    Yes, the LED varries its birghtness depending on the position of the potentiameter (due to the change in resistance)
+    Yes, the LED varries its brightness depending on the position of the potentiameter (due to the change in resistance)
 
 ## Part E. Fade an LED using Arduino
 
