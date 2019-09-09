@@ -31,9 +31,10 @@ We've copied the questions from the lab here. Answer them below!
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
      Have to change the delay rates
+     `delay(250);`
      
 **c. What circuit element would you want to add to protect the board and external LED?**
-     Would add a diode to prevent any unwanted surges
+     Would add a diode to prevent any unwanted back surges
      
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
      10 milliseconds. Can output serial prints that say when it is on/off
