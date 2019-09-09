@@ -85,7 +85,7 @@ We've copied the questions from the lab here. Answer them below!
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
   
-      Yes, it is on the pcb board. Inside the computer it is analyzing the wifi signal received and determines what to do.
+      Yes, it is on the pcb board shown in the images above. Inside the computer it is analyzing the wifi signal received and determines what to do.
    
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
  
