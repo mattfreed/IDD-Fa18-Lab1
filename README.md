@@ -113,9 +113,10 @@ We've copied the questions from the lab here. Answer them below!
 **Make a video showing off your Frankenlight.**
 
 [Video 1](https://youtu.be/82HQr-ucIeM)
+
 [Video 2](https://youtu.be/sjqSHAGKMlI)
+
 [Video 3](https://youtu.be/akHvPEywoiM)
+
 [Video 4](https://youtu.be/0xy-Lu5_kRs)
 
-
-**Include any schematics or photos in your lab write-up.**
