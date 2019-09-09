@@ -40,7 +40,7 @@ We've copied the questions from the lab here. Answer them below!
      10 milliseconds. Can output serial prints that say when it is on/off
      
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
-
+     [Code](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Lab1-blink-onboard.ino)
 
 ### 2. Blink your LED
 
