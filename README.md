@@ -79,7 +79,7 @@ The device is powered by a a 120v wall socket adaptor. There is a 5v relay in th
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 **Describe what you did here.**
-  The Led was connected past the resistor which disipate the voltage down to 5v
+  The Led onboard was powered by 5v, so I was able to use the arduino as auxilary power and connect to the LED, soldering connection points both before and after the LED.
 ### 3. Build your light!
 
 **Make a video showing off your Frankenlight.**
