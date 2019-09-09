@@ -78,6 +78,7 @@ We've copied the questions from the lab here. Answer them below!
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
 ![Schematic](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Images/Schematic.jpg)
+![device](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Images/Image%20from%20iOS%20(1).jpg)
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
   
       Yes, it is on the pcb board. Inside the computer it is analyzing the wifi signal received and determines what to do.
