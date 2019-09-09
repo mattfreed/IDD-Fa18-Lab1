@@ -105,6 +105,11 @@ We've copied the questions from the lab here. Answer them below!
      The Led onboard was powered by 5v, so I was able to use the arduino as auxilary power and connect to the LED, soldering connection points both before and after the LED.
 ### 3. Build your light!
 
+![device](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Images/Image%20from%20iOS%20(6).jpg)
+![device](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Images/Image%20from%20iOS%20(7).jpg)
+![device](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Images/Image%20from%20iOS%20(8).jpg)
+![device](https://github.com/mattfreed/IDD-Fa18-Lab1/blob/master/Images/Image%20from%20iOS%20(5).jpg)
+
 **Make a video showing off your Frankenlight.**
 
 **Include any schematics or photos in your lab write-up.**
