@@ -10,8 +10,7 @@ We've copied the questions from the lab here. Answer them below!
 
 ## Part A. Set Up a Breadboard
 
-![Image of BreadBoard](C:\Users\matth\Desktop\Class\IoT\Lab1\BoardNoBlink.jpg)
-Format: ![Alt Text](url)
+![Image of BreadBoard](C:\Users\matth\Desktop\Class\IoT\Lab1\BoardNoBlink.jpg?raw=true "Title")
 
 ## Part B. Manually Blink a LED
 
